@@ -1,7 +1,4 @@
 .uniquevalue {
-  display: inline-block;
-  *display: inline;
-  zoom: 1;
   position: relative;
 }
 .uniquevalue .spinner {
